@@ -55,8 +55,8 @@
 			}
 
 			&:hover {
-				color: #82aad1;
-				border-color: #82aad1;
+				color: _palette(accent1);
+				border-color: _palette(accent1);
 			}
 
 			&:active {
