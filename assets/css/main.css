@@ -1850,7 +1850,7 @@ input, select, textarea {
 			display: inline-block;
 			text-align: center;
 			line-height: 2.65em;
-			color: inherit;
+			color: #585858;
 		}
 
 			.icon.style2:before {
@@ -1858,8 +1858,8 @@ input, select, textarea {
 			}
 
 			.icon.style2:hover {
-				color: #f2849e;
-				border-color: #f2849e;
+				color: #82aad1;
+				border-color: #82aad1;
 			}
 
 			.icon.style2:active {
