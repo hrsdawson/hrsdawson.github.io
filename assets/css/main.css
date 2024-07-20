@@ -2720,11 +2720,11 @@ input, select, textarea {
 			}
 
 			.tiles article.style4 > .image:before {
-				background-color: #ecb77d;
+				background-color: #977873;
 			}
 
 			.tiles article.style5 > .image:before {
-				background-color: #1c5e8e;
+				background-color: #ecb77d;
 			}
 
 			.tiles article.style6 > .image:before {
@@ -3168,7 +3168,7 @@ input, select, textarea {
 
 	#footer {
 		padding: 5em 0 6em 0 ;
-		background-color: #e4d9d9;
+		background-color: #f6f6f6;
 	}
 
 		#footer > .inner {
