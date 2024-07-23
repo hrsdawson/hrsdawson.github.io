@@ -2326,10 +2326,12 @@ input, select, textarea {
 
 		.image.left, .image.right {
 			max-width: 40%;
+			object-fit:contain;
 		}
 
 			.image.left img, .image.right img {
 				width: 100%;
+				object-fit:contain;
 			}
 
 		.image.left {
